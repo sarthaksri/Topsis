@@ -1,11 +1,9 @@
 # Topsis Rank Calculation
-It takes an integer as an input and prints it square.
+It takes 4 parameters in cmd as input. First being the input dataset. Second being the Weights. Third being the Impacts. Fourth being the Result file Name
+![image could not be loaded](image.png)
 
 ## Installation
 ```pip install 102217018-topsis```
-
-## How to use it?
-Open terminal and type square and then input the integer
 
 ## License
 
